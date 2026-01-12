@@ -19,10 +19,6 @@ I define myself as a strictly curious person: when I discover something new, I d
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
-
-#### 📊 GitHub Stats
-![xHerosLegend's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuoUsername&show_icons=true&theme=radical)
 <!--
 **xHerosLegend/xHerosLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
