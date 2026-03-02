@@ -52,6 +52,15 @@ I'm also building a **real-world web management system** for a family business i
 
 ---
 
+## 📊 GitHub Stats
+
+![xHerosLegend's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHerosLegend&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHerosLegend&layout=compact&theme=dark&hide_border=true)
+
+---
+
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmineandreozzi/)
